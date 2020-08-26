@@ -1,0 +1,13 @@
+{
+  "name": "t-dom-array-methods",
+  "version": "1.0.0",
+  "description": "Project to teach high order array methods and DOM manipulation",
+  "main": "script.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "author": "M Toufiq ELAHI"
+}
